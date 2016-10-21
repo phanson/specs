@@ -1,2 +1,3 @@
 # specs
-Specifications for practice projects
+
+Specifications for practice projects. Code to be committed elsewhere.
